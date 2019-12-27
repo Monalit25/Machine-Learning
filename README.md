@@ -21,3 +21,8 @@ The Machine Learning process starts with inputting training data into the select
 To test whether this algorithm works correctly, new input data is fed into the Machine Learning algorithm. The prediction and results are then checked.
 
 If the prediction is not as expected, the algorithm is re-trained multiple numbers of times until the desired output is found. This enables the Machine Learning algorithm to continually learn on its own and produce the most optimal answer that will gradually increase in accuracy over time.
+# # Types of Machine Learning
+Machine Learning is complex in itself, which is why it has been divided into two main areas, supervised learning and unsupervised learning. Each one has a specific purpose and action within Machine Learning, yielding particular results, and utilizing various forms of data. Approximately 70 percent of Machine Learning is supervised learning, while unsupervised learning ranges from 10 – 20 percent. Another method that is used less often is reinforcement learning.
+
+## Supervised Learning
+In supervised learning, we use known or labeled data for the training data. Since the data is known, the learning is, therefore, supervised, i.e., directed into successful execution. The input data goes through the Machine Learning algorithm and is used to train the model. Once the model is trained based on the known data, you can use unknown data into the model and get a new response.
