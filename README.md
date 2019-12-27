@@ -56,3 +56,45 @@ Principal component analysis
 Like traditional types of data analysis, here, the algorithm discovers data through a process of trial and error and then decides what action results in higher rewards. Three major components make up reinforcement learning: the agent, the environment, and the actions. The agent is the learner or decision-maker, the environment includes everything that the agent interacts with, and the actions are what the agent does.
 
 Reinforcement learning occurs when the agent chooses actions that maximize the expected reward over a given time. This is easiest to achieve when the agent is working within a sound policy framework.
+
+# Why Machine Learning is Important?
+To better understand the uses of Machine Learning, consider some instances where Machine Learning is applied: the self-driving Google car; cyber fraud detection; and, online recommendation engines from Facebook, Netflix, and Amazon. Machines can enable all of these things by filtering useful pieces of information and piecing them together based on patterns to get accurate results.
+
+The rapid evolution in Machine Learning has caused a subsequent rise in the use cases, demands—and, the sheer importance of ML in modern life. Big Data has also become a well-used buzzword in the last few years.  This is, in part, due to the increased sophistication of Machine Learning, which enables the analysis of large chunks of Big Data. Machine Learning has also changed the way data extraction and interpretation are done by automating generic methods/algorithms, thereby replacing traditional statistical techniques.
+
+# Uses of Machine Learning
+Typical results from Machine Learning applications we either see or don’t regularly include web search results, real-time ads on web pages and mobile devices, email spam filtering, network intrusion detection, and pattern and image recognition. All these are by-products of using Machine Learning to analyze massive volumes of data.
+
+Traditionally, data analysis was trial and error-based, an approach that becomes impossible when data sets are large and heterogeneous. Machine Learning provides smart alternatives to analyzing vast volumes of data. By developing fast and efficient algorithms and data-driven models for real-time processing of data, Machine Learning can produce accurate results and analysis.
+
+Pro Tip: For more on Big Data and how it’s revolutionizing industries globally, check out our article about what Big Data is and why you should care.
+
+According to a related report by McKinsey, “As ever more of the analog world gets digitized, our ability to learn from data by developing and testing algorithms will only become more important for what is now seen as traditional businesses.”  The same report also quotes Google’s chief economist Hal Varian who calls this “computer kaizen” and adds, “just as mass production changed the way products were assembled, and continuous improvement changed how manufacturing was done… so continuous (and often automatic) experimentation will improve the way we optimize business processes in our organizations.” Machine Learning is here to stay.
+
+# Some Machine Learning Algorithms And Processes
+If you’re studying Machine Learning, you should familiarize yourself with standard Machine Learning algorithms and processes. These include neural networks, decision trees, random forests, associations, and sequence discovery, gradient boosting and bagging, support vector machines, self-organizing maps, k-means clustering, Bayesian networks, Gaussian mixture models, and more.
+
+To get the most value out of Big Data, other Machine Learning tools and processes that leverage various algorithms include:
+
+Comprehensive data quality and management
+GUIs for building models and process flows
+Interactive data exploration and visualization of model results
+Comparisons of different Machine Learning models to quickly identify the best one
+Automated ensemble model evaluation to determine the best performers
+Easy model deployment so you can get repeatable, reliable results quickly
+An integrated end-to-end platform for the automation of the data-to-decision process
+# Machine Learning Prerequisites
+For those interested in learning more about breaking into the field of Machine Learning, a few requirements should be met to be successful in pursual of this field. These requirements include:
+
+1. Basic knowledge of programming and scripting languages
+2. Intermediate knowledge of statistics and probability
+3. Basic knowledge of linear algebra. In the linear regression model, a line is drawn through all the data points, and that line is used to compute new values.
+4. Understanding of calculus
+5. Knowledge of how to clean and structure raw data to the desired format to reduce the time taken for decision making.
+6. Each of these prerequisites will help you quickly succeed in transitioning into Machine Learning. 
+# Conclusion
+Machine Learning concepts and techniques including supervised and unsupervised learning, mathematical and heuristic aspects, and hands-on modeling to develop algorithms and prepare you for the role of Machine Learning Engineer.
+
+
+
+
