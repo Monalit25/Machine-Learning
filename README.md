@@ -31,13 +31,13 @@ In this case, the model tries to figure out whether the data is an apple or anot
 
 The top algorithms currently being used for supervised learning are:
 
-Polynomial regression
-Random forest
-Linear regression
-Logistic regression
-Decision trees
-K-nearest neighbors
-Naive Bayes
+1. Polynomial regression
+2. Random forest
+3. Linear regression
+4. Logistic regression
+5. Decision trees
+6. K-nearest neighbors
+7. Naive Bayes
 ## Unsupervised Learning
 In unsupervised learning, the training data is unknown and unlabeled - meaning that no one has looked at the data before. Without the aspect of known data, the input cannot be guided to the algorithm, which is where the unsupervised term originates from. This data is fed to the Machine Learning algorithm and is used to train the model. The trained model tries to search for a pattern and give the desired response. In this case, it is often like the algorithm is trying to break code like the Enigma machine but without the human mind directly involved but rather a machine.
 
