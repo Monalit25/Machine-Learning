@@ -41,3 +41,20 @@ K-nearest neighbors
 Naive Bayes
 ## Unsupervised Learning
 In unsupervised learning, the training data is unknown and unlabeled - meaning that no one has looked at the data before. Without the aspect of known data, the input cannot be guided to the algorithm, which is where the unsupervised term originates from. This data is fed to the Machine Learning algorithm and is used to train the model. The trained model tries to search for a pattern and give the desired response. In this case, it is often like the algorithm is trying to break code like the Enigma machine but without the human mind directly involved but rather a machine.
+[![](https://github.com/Monalit25/Machine-Learning/blob/master/images/unsupervisedlearning.jpg)](htthttps://github.com/Monalit25/Machine-Learning/blob/master/images/unsupervisedlearning.jpgp://)
+
+In this case, the unknown data consists of apples and pears which look similar to each other. The trained model tries to put them all together so that you get the same things in similar groups.
+
+The top algorithms currently being used for unsupervised learning are:
+Partial least squares
+Fuzzy means
+Singular value decomposition
+K-means clustering
+Apriori
+Hierarchical clustering
+Principal component analysis
+
+## Reinforcement Learning
+Like traditional types of data analysis, here, the algorithm discovers data through a process of trial and error and then decides what action results in higher rewards. Three major components make up reinforcement learning: the agent, the environment, and the actions. The agent is the learner or decision-maker, the environment includes everything that the agent interacts with, and the actions are what the agent does.
+
+Reinforcement learning occurs when the agent chooses actions that maximize the expected reward over a given time. This is easiest to achieve when the agent is working within a sound policy framework.
