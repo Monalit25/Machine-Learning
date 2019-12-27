@@ -26,7 +26,6 @@ Machine Learning is complex in itself, which is why it has been divided into two
 
 ## Supervised Learning
 In supervised learning, we use known or labeled data for the training data. Since the data is known, the learning is, therefore, supervised, i.e., directed into successful execution. The input data goes through the Machine Learning algorithm and is used to train the model. Once the model is trained based on the known data, you can use unknown data into the model and get a new response.
-[![](https://github.com/Monalit25/Machine-Learning/blob/master/images/supervisedlearning.jpg)](http://https://github.com/Monalit25/Machine-Learning/blob/master/images/supervisedlearning.jpg)
 
 In this case, the model tries to figure out whether the data is an apple or another fruit. Once the model has been trained well, it will identify that the data is an apple and give the desired response.
 
@@ -41,7 +40,6 @@ K-nearest neighbors
 Naive Bayes
 ## Unsupervised Learning
 In unsupervised learning, the training data is unknown and unlabeled - meaning that no one has looked at the data before. Without the aspect of known data, the input cannot be guided to the algorithm, which is where the unsupervised term originates from. This data is fed to the Machine Learning algorithm and is used to train the model. The trained model tries to search for a pattern and give the desired response. In this case, it is often like the algorithm is trying to break code like the Enigma machine but without the human mind directly involved but rather a machine.
-[![](https://github.com/Monalit25/Machine-Learning/blob/master/images/unsupervisedlearning.jpg)](htthttps://github.com/Monalit25/Machine-Learning/blob/master/images/unsupervisedlearning.jpgp://)
 
 In this case, the unknown data consists of apples and pears which look similar to each other. The trained model tries to put them all together so that you get the same things in similar groups.
 
